@@ -1,0 +1,55 @@
+.top{
+background-color: #1f2937;
+font-family: sans-serif;
+padding-bottom: 50px;
+
+
+}
+
+
+.header h1{
+    color: white;
+}
+
+
+.header{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.links{
+    display: flex;
+    gap: 20px;
+}
+
+.titlesection{
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+.titlesection h1{
+    font-size: 48px;
+    font-weight: 900;
+
+}
+.titlesection img{
+    width: 300px;
+    height: auto;
+}
+
+.titleleft button{
+    background-color: #3882f6;
+    border-radius: 8px;
+    font-size: 25px;
+    border: none;
+}
